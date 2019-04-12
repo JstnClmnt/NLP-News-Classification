@@ -1,0 +1,17 @@
+Basis: Convert Sentiment Analysis to News Classification
+
+https://github.com/thushv89/attention_keras
+
+https://github.com/lpq29743/RAM
+
+https://github.com/Artaches/SSAN-self-attention-sentiment-analysis-classification <-Can be Main code
+
+https://github.com/kionkim/stat_analysis/blob/master/notebooks/text_classification_RNN_SA_umich.ipynb <- With visualizations
+
+https://github.com/0dust/Sentiment-Analysis-with-Attention <-Can be main but without visualizations
+
+https://github.com/jimmyyfeng/TD-LSTM
+
+https://androidkt.com/tensorflow-text-classification-attention-mechanism/
+
+https://github.com/ilivans/tf-rnn-attention
