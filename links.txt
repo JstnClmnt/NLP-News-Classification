@@ -15,3 +15,5 @@ https://github.com/jimmyyfeng/TD-LSTM
 https://androidkt.com/tensorflow-text-classification-attention-mechanism/
 
 https://github.com/ilivans/tf-rnn-attention
+
+https://github.com/philipperemy/keras-attention-mechanism <--CAN BE MAIN CODE
