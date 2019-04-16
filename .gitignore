@@ -2,3 +2,5 @@
 Sentiment-Analysis-with-Attention/glove\.6B\.300d\.txt
 
 *.csv
+
+data/
