@@ -1,4 +1,4 @@
-from keras.layers import merge
+from keras.layers import merge,add,concatenate,multiply
 from keras.layers.core import *
 from keras.layers.recurrent import LSTM
 from keras.models import *
@@ -9,7 +9,7 @@ INPUT_DIM = 2
 TIME_STEPS = 20
 # if True, the attention vector is shared across the input_dimensions where the attention is applied.
 SINGLE_ATTENTION_VECTOR = False
-APPLY_ATTENTION_BEFORE_LSTM = False
+APPLY_ATTENTION_BEFORE_LSTM = True
 
 
 def attention_3d_block(inputs):
@@ -22,7 +22,7 @@ def attention_3d_block(inputs):
         a = Lambda(lambda x: K.mean(x, axis=1), name='dim_reduction')(a)
         a = RepeatVector(input_dim)(a)
     a_probs = Permute((2, 1), name='attention_vec')(a)
-    output_attention_mul = merge([inputs, a_probs], name='attention_mul', mode='mul')
+    output_attention_mul = multiply([inputs, a_probs])
     return output_attention_mul
 
 
