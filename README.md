@@ -4,7 +4,7 @@ Topic Identification of News using BiLSTMs with Attention Mechanisms. Our data f
 
 ## Getting Started
 
-Download the dataset from http://mlg.ucd.ie/files/datasets/bbc-fulltext.zip and extract it in a folder named ``` /data ```
+Download the dataset from http://mlg.ucd.ie/files/datasets/bbc-fulltext.zip and extract it in a folder named ``` /data ``` in the local directory.
 
 ### Prerequisites
 
@@ -20,7 +20,7 @@ What things you need to install the software and how to install them
 
 ### Installing
 
-Create also a folder named ```/Graph_LSTM``` and ```/Graph``` so tensorboard will save the files there for the Ordinary LSTMs and LSTMs with Attention
+Create also a folder named ```/Graph_LSTM``` and ```/Graph``` in the local directory so tensorboard will save the files there for the Ordinary LSTMs and LSTMs with Attention.
 
 
 ## Code
@@ -30,7 +30,7 @@ Just run the ```.ipynb``` file in your Jupyter Notebook and you're good to go.
 
 ## Authors
 
-* **Christian Justine Clemente** - *Initial work* - [Jstnlmnt](https://github.com/JstnClmnt)
+* **Christian Justine Clemente** - *Initial work* - [JstnClmnt](https://github.com/JstnClmnt)
 
 See also the list of [contributors](https://github.com/JstnClmnt/NLP-News-Classification/contributors) who participated in this project.
 
