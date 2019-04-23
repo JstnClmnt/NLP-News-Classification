@@ -36,6 +36,6 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## References
 
-* [1](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008).
-* [2](https://github.com/philipperemy/keras-attention-mechanism) Keras implementation of Attention Mechanisms
-* [3](https://github.com/tris-rivers/nlp-with-python/tree/master/StopWords%20Removal) Stop Words Function Removal for the Filipino Language
+[[1]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008).
+[[2]](https://github.com/philipperemy/keras-attention-mechanism) Keras implementation of Attention Mechanisms
+[[3]](https://github.com/tris-rivers/nlp-with-python/tree/master/StopWords%20Removal) Stop Words Function Removal for the Filipino Language
