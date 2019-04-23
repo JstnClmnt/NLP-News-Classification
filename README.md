@@ -32,10 +32,10 @@ Just run the ```.ipynb``` file in your Jupyter Notebook and you're good to go.
 
 * **Christian Justine Clemente** - *Initial work* - [Jstnlmnt](https://github.com/JstnClmnt)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/JstnClmnt/NLP-News-Classification/contributors) who participated in this project.
 
 ## References
 
-<br>[[1]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008).
+[[1]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008).
 <br>[[2]](https://github.com/philipperemy/keras-attention-mechanism) Keras implementation of Attention Mechanisms
 <br>[[3]](https://github.com/tris-rivers/nlp-with-python/tree/master/StopWords%20Removal) Stop Words Function Removal for the Filipino Language
