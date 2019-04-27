@@ -33,7 +33,8 @@ Just run the ```.ipynb``` file in your Jupyter Notebook and you're good to go.
 ## Authors
 
 * **Christian Justine Clemente** - *Initial work, Lead* - [JstnClmnt](https://github.com/JstnClmnt)
-* **Ezekiel David** - *Developer* - [kielboy08](https://github.com/kielboy08)
+* **Ezekiel David** - *Developer* - [kielboy8](https://github.com/kielboy8)
+<br>
 See also the list of [contributors](https://github.com/JstnClmnt/NLP-News-Classification/contributors) who participated in this project.
 
 ## References
