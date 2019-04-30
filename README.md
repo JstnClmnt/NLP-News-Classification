@@ -22,7 +22,9 @@ What things you need to install the software and how to install them
 
 * Create a folder named ```/Graph_LSTM``` and ```/Graph``` in the local directory so tensorboard will save the files there for the Ordinary LSTMs and LSTMs with Attention.
 
-* Download  the GloVe Word Embeddings [here](https://nlp.stanford.edu/data/glove.6B.zip) and extract the file named ```glove.6B.300d.txt``` in the local directory
+* For the English Word Embeddings, Download  the GloVe Word Embeddings [here](https://nlp.stanford.edu/data/glove.6B.zip) and extract the file named ```glove.6B.300d.txt``` in the local directory
+
+* For the Tagalog Word Embeddings, Download the FastText Word Embeddings [here](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.tl.300.vec.gz) and extract the file in the local directory and rename it to ```fasttext_tagalog.vec``` 
 
 
 ## Code
@@ -43,3 +45,4 @@ See also the list of [contributors](https://github.com/JstnClmnt/NLP-News-Classi
 <br>[[2]](https://github.com/philipperemy/keras-attention-mechanism) Keras implementation of Attention Mechanisms
 <br>[[3]](https://github.com/tris-rivers/nlp-with-python/tree/master/StopWords%20Removal) Stop Words Function Removal for the Filipino Language
 <br>[[4]](https://www.aclweb.org/anthology/D14-1162) Pennington, J., Socher, R., & Manning, C. (2014). Glove: Global vectors for word representation. In Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP) (pp. 1532-1543).
+<br>[[5]](https://fasttext.cc/) Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2017). Enriching word vectors with subword information. Transactions of the Association for Computational Linguistics, 5, 135-146.
