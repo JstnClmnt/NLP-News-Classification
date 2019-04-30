@@ -12,3 +12,5 @@ glove\.6B\.300d\.txt
 *.h5
 
 Graph_LSTM/
+
+lstm_architecture\.json
