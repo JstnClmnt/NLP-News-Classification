@@ -14,3 +14,7 @@ glove\.6B\.300d\.txt
 Graph_LSTM/
 
 lstm_architecture\.json
+
+fasttext_tagalog\.vec
+
+attention_architecture\.json
