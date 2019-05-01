@@ -18,3 +18,7 @@ lstm_architecture\.json
 fasttext_tagalog\.vec
 
 attention_architecture\.json
+
+results/
+
+Filipino Dataset/
